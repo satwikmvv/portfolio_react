@@ -5,6 +5,7 @@ injectGlobal `
 
     body {
         font-family: 'VT323', monospace;
+        font-size: 24px;
     }
 
 `
